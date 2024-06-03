@@ -1,7 +1,7 @@
-!!! Am folosit 2 sleepdays
+
 
 -------------------------------------------------------------------------------
-Pentru aceasta tema am folosit fisierele buffer.c, buffer.h, helpers.c,
+Pentru acest proiect am folosit fisierele buffer.c, buffer.h, helpers.c,
 helpers.h din scheletul laboratorului 9, iar fisierele parson.c si parson.h
 le-am clonat de pe girhubul prezentat in enuntul temei.
 Rezolvarea propriu-zisa este in fisierul client.c
@@ -75,8 +75,3 @@ tip GET pentru a ne deconecta, iar cookie-ul si tokenul JWT sunt curatati.
 - Daca de la tastatura nu se citeste niciuna din aceste instructiuni se va
 afisa "ERROR , unknown command"
 -------------------------------------------------------------------------------
-
-A fost o tema care m-a ajutat sa aprofundez concepte de protocoale web prin
-construirea de cereri. Am folosit biblioteca Parson pentru lucrul cu JSON
-pentru a ma ajuta sa parsez obiecte. Mentionez ca pentru aceasta tema am
-folosit 2 sleepdays, completand si formularul pentru acestea.
